@@ -32,7 +32,7 @@ export default function FinalScreen() {
                 animate={{ y: 0, opacity: 1 }}
                 transition={{ duration: 0.7, delay: 0.3 }}
             >
-                You’ll always be special to me
+                alwyas spread your possitive aura😁
             </motion.h2>
         </motion.div>
     )
