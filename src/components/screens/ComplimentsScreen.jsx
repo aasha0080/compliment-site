@@ -6,7 +6,7 @@ const compliments = [
   "You have the sweetest vibe",
   "You make things feel lighter",
   "You are naturally charming",
-  "You make everything feel more special",
+  "😁",
 ]
 
 function Card({ text }) {
